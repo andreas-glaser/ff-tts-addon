@@ -1,0 +1,17 @@
+{
+  "title": "Text to Speech (Powered by naturalreaders.com)",
+  "name": "ff-tts-addon",
+  "version": "1.0.0",
+  "description": "Select english text anywhere, right click, left click 'Text to Speech'...",
+  "main": "index.js",
+  "author": "Andreas Glaser",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "tts",
+    "context-menu"
+  ]
+}
